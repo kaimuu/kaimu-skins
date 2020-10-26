@@ -1,14 +1,9 @@
-# RyuK super rad main skins compilation
+# kaimu skins
 
-# [HP Bar](https://i.imgur.com/dh79Bwo.png)
-![](https://i.imgur.com/dh79Bwo.png)
+# Some of my skins might not be on here 
 
-# If a link is down let @snowedcoffee or @mzruu know.
-
-# Some of the skins RyuK uses might be private or unfinished and may not be listed. 
-
-# [- tony varv -](https://www.dropbox.com/s/dnmlk2cyz89aimh/tony%20varv.osk?dl=0)
-![](https://osu.ppy.sh/ss/15626158/88a1)
+# [#azer8c but azer](https://b.catgirlsare.sexy/kFOEtb1t.osk)
+![](https://b.catgirlsare.sexy/8VoFAdDy.png)
 
 # [- boop -](https://cdn.discordapp.com/attachments/427214130756452353/697696460267061319/boop.osk)
 ![](https://osu.ppy.sh/ss/14733957/6cce)
